@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Historia de la fotografia</title>
+<style>
+ 
+  #tabla {
+            
+                    
+        
+            height: 180px;
+            overflow: auto;
+             margin: 15px 0px 10px 6px;
+             width: 400px;
+            margin: auto;
+             border: 1px solid rgb(128, 134, 150);
+             padding: 15px;
+            
+        }
+
+#container {
+            width: 400px;
+            margin: auto;
+             border: 3px solid rgb(128, 134, 150);
+            border-top: 10px solid grey;
+            padding: 15px;
+}
+
+ body {
+font-size: 15px;
+background-color: rgb(255, 255, 255);
+font-family: "helvetica"; 
+ 
+ }
+
+h1 {   
+background-color: rgb(143, 174, 224);
+ 
+}
+th {   
+background-color: rgb(41, 140, 179);
+ 
+}
+h3 { color : rgb(143, 174, 224);}
+
+</style>
+
+</head>
+<div id="container">
+<h1>La fotografía</h1>
+La fotografía se remonta desde el siglo XIX al XX. La fotografía es una de las tecnologías más innovadoras que el hombre ha llegado ha inventar, la fotografía dio origen al cine. El impacto de la fotografía se ha dado en las artes, las ciencias, la documentacion de echos historicos, entre otros.
+<br> 
+La palabra fotografía vienen del griego phos que significa luz y del graphos que significa grabado o escrito.
+<br>
+<h3>La primera fotografía</h3>
+Las primeras fotos de la historia fueron en 1826 por el francés Nicéphore Niepce, esas fotos las pudo tomar dediante la exposición prolongada de luz de plaquetas de peltre y cubiertas de bbetún, todo esto echo con una camara oscura. Y esta foto tomo 8 horas en realizarce.
+<br>
+<h3>La primera fotografía a color</h3>
+Esta primera foto fue lograda por James Clerk Maxwell en 1861, esta foto se logro por el procedimiento de tomar 3 fotos seguidas cada una con un filtro verde, azul y rojo, y luego de haber tomado las fotos se subreponen y asi obtener las primera foto ha color.
+<br> 
+Antes de esta primera foto las fotos ha blanco y negro eran pintadas ha mano con óleos, acuarelas y otros tipos de pinturas.
+<br>
+<h3>La fotografía digital</h3>
+La fotografías es el invento mas nuevo de la fotografía, este camara se logro gracias ha la tecnologio que fue inventada gracias ha la revolución informática, esto ocurrio a finales del siglo XX, esto hizo que los rollos fotográficos dejaran de ser tan utilizados y tambien la forma de revelar las fotos mediante quimicos ya que en las camaras digitales las fotos se guardaban en esta.
+</div>
+<style>
+
+table {
+width: 90%;
+}
+th, td {
+width: 20%;
+vertical-align: top;
+border: 2px solid #000;
+}
+
+</style>
+<body>
+<br> 
+<br> 
+<div id="tabla"><h3>Linea de tiempo de la fotografía</h3>
+<table>
+<tr>
+<th>300 a.c.</th>
+<th>1521</th>
+<th>1777</th>
+<th>1826</th>
+<th>1839</th>
+<th>1850</th>
+<th>1861</th>
+</tr>
+<tbody>
+<tr>
+<td>Aristóteles usa la primera cámara oscura.</td>
+<td>Primera publicación sobre la cámara oscura en Europa</td>
+<td>Primer tratado sobre las sales de la plata.</td>
+<td>Primeras imágenes capturadas por Niepce.</td>
+<td>Se difunde el daguerrotipo.</td>
+<td> Se inventa el colodión húmedo.</td>
+<td> Primera fotografía a colores de James Maxwell.</td>
+</tr>
+<tr>
+<th>1864</th>
+<th>1871</th>
+<th> 1889</th>
+<th> 1903</th>
+<th> 1920</th>
+<th>1930</th>
+<th> 1936</th>
+</tr>
+<tr>
+<td> Primer uso de flash a base de magnesio.</td>
+<td> Se inventan las “placas secas”.</td>
+<td>  Primera película fotográfica flexible.</td>
+<td> Primera placa a colores de los Lumière.</td>
+<td> Primera cámara de 35mm.</td>
+<td>Aparece la lámpara de flash.</td>
+<td> Aparece la película de color Agfa.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</body>
+</html>
